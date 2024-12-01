@@ -1,4 +1,4 @@
-# Google Data Analytics Capstone - Case Study 01 - Cyclistic
+## Google Data Analytics Capstone - Case Study 01 - Cyclistic
 
 ## Introduction
 
